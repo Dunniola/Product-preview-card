@@ -50,6 +50,6 @@ Mobile design
 
 - Website - [Dunniola](https://dunniola.github.io/Product-preview-card/)
 - Frontend Mentor - [@Dunniola](https://www.frontendmentor.io/profile/Dunniola)
-- Twitter - [@yourusername](https://www.twitter.com/Eduoladunni)
+- Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
 
 
