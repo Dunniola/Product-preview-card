@@ -46,10 +46,6 @@ Mobile design
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-
-
 ## Author
 
 - Website - [Dunniola](https://www.your-site.com)
