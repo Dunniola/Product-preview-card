@@ -35,7 +35,7 @@ Mobile design
 ### Links
 
 - Solution URL: [View Demo](https://github.com/Dunniola)
-- Live Site URL: [github](https://your-live-site-url.com)
+- Live Site URL: [github page](https://dunniola.github.io/Product-preview-card/)
 
 ## My process
 
@@ -48,7 +48,7 @@ Mobile design
 - Mobile-first workflow
 ## Author
 
-- Website - [Dunniola](https://www.your-site.com)
+- Website - [Dunniola](https://dunniola.github.io/Product-preview-card/)
 - Frontend Mentor - [@Dunniola](https://www.frontendmentor.io/profile/Dunniola)
 - Twitter - [@yourusername](https://www.twitter.com/Eduoladunni)
 
