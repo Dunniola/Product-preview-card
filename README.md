@@ -34,7 +34,7 @@ Mobile design
 
 ### Links
 
-- Solution URL: [View Demo](https://your-solution-url.com)
+- Solution URL: [View Demo](https://github.com/Dunniola)
 - Live Site URL: [github](https://your-live-site-url.com)
 
 ## My process
