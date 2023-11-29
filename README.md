@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 Active state
-![](./screenshot.jpg)
+![](<./screenshot.jpg/active-states.jpg>)
 Desktop design
-![](./screenshot.jpg)
+![](<./screenshot.jpg/desktop-design.jpg>)
 Desktop preview
-![](./screenshot.jpg)
+![](<./screenshot.jpg/desktop-preview.jpg>)
 Mobile design
-![](./screenshot.jpg)
+![](<./screenshot.jpg/mobile-design.jpg>)
 
 ### Links
 
