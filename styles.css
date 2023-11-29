@@ -87,7 +87,7 @@ button{
 @media(max-width:960px){
     .main-container{
         background-color: white;
-        width:430px;
+        width:350px;
         height:auto;
       margin: 15px auto;
     
@@ -117,7 +117,7 @@ button{
     p{
         padding-left: 20px;
         color:hsl(228, 12%, 48%);
-        font-size: 18px;
+        font-size: 15px;
         font-family: 'Montserrat', sans-serif;
         margin-top: -15px;
 
@@ -151,6 +151,7 @@ button{
         left: 20px;
         border: 2px;
         text-decoration: line-through;
+        color:hsl(228, 12%, 48%);
         
     }
 }
